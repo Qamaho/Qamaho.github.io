@@ -3,11 +3,11 @@
   <title>Qamaho&#39;Blog</title>
   
   
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://blog.qamaho.com/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://blog.qamaho.com/"/>
   <updated>2020-08-23T17:01:59.469Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://blog.qamaho.com/</id>
   
   <author>
     <name>Qamaho</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hexo next 添加 algolia 搜索</title>
-    <link href="http://yoursite.com/2020/08/23/Hexo%20next%20%E6%B7%BB%E5%8A%A0%20algolia%20%E6%90%9C%E7%B4%A2/"/>
-    <id>http://yoursite.com/2020/08/23/Hexo%20next%20%E6%B7%BB%E5%8A%A0%20algolia%20%E6%90%9C%E7%B4%A2/</id>
+    <link href="http://blog.qamaho.com/2020/08/23/Hexo%20next%20%E6%B7%BB%E5%8A%A0%20algolia%20%E6%90%9C%E7%B4%A2/"/>
+    <id>http://blog.qamaho.com/2020/08/23/Hexo%20next%20%E6%B7%BB%E5%8A%A0%20algolia%20%E6%90%9C%E7%B4%A2/</id>
     <published>2020-08-23T13:01:39.252Z</published>
     <updated>2020-08-23T17:01:59.469Z</updated>
     
@@ -38,21 +38,21 @@
     
     
     
-    <category term="Hexo" scheme="http://yoursite.com/categories/Hexo/"/>
+    <category term="Hexo" scheme="http://blog.qamaho.com/categories/Hexo/"/>
     
     
-    <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+    <category term="Hexo" scheme="http://blog.qamaho.com/tags/Hexo/"/>
     
-    <category term="Next" scheme="http://yoursite.com/tags/Next/"/>
+    <category term="Next" scheme="http://blog.qamaho.com/tags/Next/"/>
     
-    <category term="algolia" scheme="http://yoursite.com/tags/algolia/"/>
+    <category term="algolia" scheme="http://blog.qamaho.com/tags/algolia/"/>
     
   </entry>
   
   <entry>
     <title>PC端以及移动端视频播放/直播（HLS&amp;FLV）方案使用技术：Vdieojs&amp;Flvjs</title>
-    <link href="http://yoursite.com/2020/08/23/PC%E7%AB%AF%E4%BB%A5%E5%8F%8A%E7%A7%BB%E5%8A%A8%E7%AB%AF%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE:%E7%9B%B4%E6%92%AD%EF%BC%88HLS&amp;FLV%EF%BC%89%E6%96%B9%E6%A1%88%E4%BD%BF%E7%94%A8%E6%8A%80%E6%9C%AF%EF%BC%9AVdieojs&amp;Flvjs/"/>
-    <id>http://yoursite.com/2020/08/23/PC%E7%AB%AF%E4%BB%A5%E5%8F%8A%E7%A7%BB%E5%8A%A8%E7%AB%AF%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE:%E7%9B%B4%E6%92%AD%EF%BC%88HLS&amp;FLV%EF%BC%89%E6%96%B9%E6%A1%88%E4%BD%BF%E7%94%A8%E6%8A%80%E6%9C%AF%EF%BC%9AVdieojs&amp;Flvjs/</id>
+    <link href="http://blog.qamaho.com/2020/08/23/PC%E7%AB%AF%E4%BB%A5%E5%8F%8A%E7%A7%BB%E5%8A%A8%E7%AB%AF%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE:%E7%9B%B4%E6%92%AD%EF%BC%88HLS&amp;FLV%EF%BC%89%E6%96%B9%E6%A1%88%E4%BD%BF%E7%94%A8%E6%8A%80%E6%9C%AF%EF%BC%9AVdieojs&amp;Flvjs/"/>
+    <id>http://blog.qamaho.com/2020/08/23/PC%E7%AB%AF%E4%BB%A5%E5%8F%8A%E7%A7%BB%E5%8A%A8%E7%AB%AF%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE:%E7%9B%B4%E6%92%AD%EF%BC%88HLS&amp;FLV%EF%BC%89%E6%96%B9%E6%A1%88%E4%BD%BF%E7%94%A8%E6%8A%80%E6%9C%AF%EF%BC%9AVdieojs&amp;Flvjs/</id>
     <published>2020-08-23T13:01:39.252Z</published>
     <updated>2020-08-23T15:25:04.173Z</updated>
     
@@ -69,19 +69,19 @@
     
     
     
-    <category term="web前端" scheme="http://yoursite.com/categories/web%E5%89%8D%E7%AB%AF/"/>
+    <category term="web前端" scheme="http://blog.qamaho.com/categories/web%E5%89%8D%E7%AB%AF/"/>
     
     
-    <category term="前端开发" scheme="http://yoursite.com/tags/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    <category term="前端开发" scheme="http://blog.qamaho.com/tags/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
     
-    <category term="技术" scheme="http://yoursite.com/tags/%E6%8A%80%E6%9C%AF/"/>
+    <category term="技术" scheme="http://blog.qamaho.com/tags/%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/08/04/hello-world/"/>
-    <id>http://yoursite.com/2020/08/04/hello-world/</id>
+    <link href="http://blog.qamaho.com/2020/08/04/hello-world/"/>
+    <id>http://blog.qamaho.com/2020/08/04/hello-world/</id>
     <published>2020-08-04T15:18:24.588Z</published>
     <updated>2020-08-24T11:37:58.414Z</updated>
     
@@ -96,10 +96,10 @@
     
     
     
-    <category term="▣" scheme="http://yoursite.com/categories/%E2%96%A3/"/>
+    <category term="▣" scheme="http://blog.qamaho.com/categories/%E2%96%A3/"/>
     
     
-    <category term="异想天开" scheme="http://yoursite.com/tags/%E5%BC%82%E6%83%B3%E5%A4%A9%E5%BC%80/"/>
+    <category term="异想天开" scheme="http://blog.qamaho.com/tags/%E5%BC%82%E6%83%B3%E5%A4%A9%E5%BC%80/"/>
     
   </entry>
   

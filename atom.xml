@@ -6,7 +6,7 @@
   <link href="https://qamaho.github.io/atom.xml" rel="self"/>
   
   <link href="https://qamaho.github.io/"/>
-  <updated>2020-08-25T13:06:45.220Z</updated>
+  <updated>2020-08-25T13:06:31.113Z</updated>
   <id>https://qamaho.github.io/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>PC端以及移动端视频播放/直播（HLS&amp;FLV）</title>
+    <link href="https://qamaho.github.io/2020/08/23/PC%E7%AB%AF%E4%BB%A5%E5%8F%8A%E7%A7%BB%E5%8A%A8%E7%AB%AF%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE:%E7%9B%B4%E6%92%AD%EF%BC%88HLS&amp;FLV%EF%BC%89%E6%96%B9%E6%A1%88%E4%BD%BF%E7%94%A8%E6%8A%80%E6%9C%AF%EF%BC%9AVdieojs&amp;Flvjs/"/>
+    <id>https://qamaho.github.io/2020/08/23/PC%E7%AB%AF%E4%BB%A5%E5%8F%8A%E7%A7%BB%E5%8A%A8%E7%AB%AF%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE:%E7%9B%B4%E6%92%AD%EF%BC%88HLS&amp;FLV%EF%BC%89%E6%96%B9%E6%A1%88%E4%BD%BF%E7%94%A8%E6%8A%80%E6%9C%AF%EF%BC%9AVdieojs&amp;Flvjs/</id>
+    <published>2020-08-23T13:01:39.252Z</published>
+    <updated>2020-08-25T13:06:31.113Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;这是一片测试文章&lt;/p&gt;
+&lt;p&gt;方案使用技术：Vdieojs&amp;amp;Flvjs&lt;/p&gt;
+&lt;p&gt;关键字：&lt;/p&gt;
+&lt;p&gt;PC端 移动端 视频 播放 直播 HLS FLV 方案 使用技术：Vdieojs</summary>
+        
+      
+    
+    
+    
+    <category term="web前端" scheme="https://qamaho.github.io/categories/web%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="前端开发" scheme="https://qamaho.github.io/tags/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+    <category term="技术" scheme="https://qamaho.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>Hexo-next添加algolia搜索</title>
@@ -46,36 +76,6 @@
     <category term="Next" scheme="https://qamaho.github.io/tags/Next/"/>
     
     <category term="algolia" scheme="https://qamaho.github.io/tags/algolia/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>PC端以及移动端视频播放/直播（HLS&amp;FLV）</title>
-    <link href="https://qamaho.github.io/2020/08/23/PC%E7%AB%AF%E4%BB%A5%E5%8F%8A%E7%A7%BB%E5%8A%A8%E7%AB%AF%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE:%E7%9B%B4%E6%92%AD%EF%BC%88HLS&amp;FLV%EF%BC%89%E6%96%B9%E6%A1%88%E4%BD%BF%E7%94%A8%E6%8A%80%E6%9C%AF%EF%BC%9AVdieojs&amp;Flvjs/"/>
-    <id>https://qamaho.github.io/2020/08/23/PC%E7%AB%AF%E4%BB%A5%E5%8F%8A%E7%A7%BB%E5%8A%A8%E7%AB%AF%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE:%E7%9B%B4%E6%92%AD%EF%BC%88HLS&amp;FLV%EF%BC%89%E6%96%B9%E6%A1%88%E4%BD%BF%E7%94%A8%E6%8A%80%E6%9C%AF%EF%BC%9AVdieojs&amp;Flvjs/</id>
-    <published>2020-08-23T13:01:39.252Z</published>
-    <updated>2020-08-25T13:06:31.113Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;这是一片测试文章&lt;/p&gt;
-&lt;p&gt;方案使用技术：Vdieojs&amp;amp;Flvjs&lt;/p&gt;
-&lt;p&gt;关键字：&lt;/p&gt;
-&lt;p&gt;PC端 移动端 视频 播放 直播 HLS FLV 方案 使用技术：Vdieojs</summary>
-        
-      
-    
-    
-    
-    <category term="web前端" scheme="https://qamaho.github.io/categories/web%E5%89%8D%E7%AB%AF/"/>
-    
-    
-    <category term="前端开发" scheme="https://qamaho.github.io/tags/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
-    
-    <category term="技术" scheme="https://qamaho.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   

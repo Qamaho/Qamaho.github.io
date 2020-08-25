@@ -6,7 +6,7 @@
   <link href="https://qamaho.github.io/atom.xml" rel="self"/>
   
   <link href="https://qamaho.github.io/"/>
-  <updated>2020-08-23T17:01:59.469Z</updated>
+  <updated>2020-08-25T13:06:45.220Z</updated>
   <id>https://qamaho.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hexo next 添加 algolia 搜索</title>
-    <link href="https://qamaho.github.io/2020/08/23/Hexo%20next%20%E6%B7%BB%E5%8A%A0%20algolia%20%E6%90%9C%E7%B4%A2/"/>
-    <id>https://qamaho.github.io/2020/08/23/Hexo%20next%20%E6%B7%BB%E5%8A%A0%20algolia%20%E6%90%9C%E7%B4%A2/</id>
+    <title>Hexo-next添加algolia搜索</title>
+    <link href="https://qamaho.github.io/2020/08/23/Hexo-next%E6%B7%BB%E5%8A%A0algolia%E6%90%9C%E7%B4%A2/"/>
+    <id>https://qamaho.github.io/2020/08/23/Hexo-next%E6%B7%BB%E5%8A%A0algolia%E6%90%9C%E7%B4%A2/</id>
     <published>2020-08-23T13:01:39.252Z</published>
-    <updated>2020-08-23T17:01:59.469Z</updated>
+    <updated>2020-08-25T13:06:45.220Z</updated>
     
     
       
@@ -50,11 +50,11 @@
   </entry>
   
   <entry>
-    <title>PC端以及移动端视频播放/直播（HLS&amp;FLV）方案使用技术：Vdieojs&amp;Flvjs</title>
+    <title>PC端以及移动端视频播放/直播（HLS&amp;FLV）</title>
     <link href="https://qamaho.github.io/2020/08/23/PC%E7%AB%AF%E4%BB%A5%E5%8F%8A%E7%A7%BB%E5%8A%A8%E7%AB%AF%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE:%E7%9B%B4%E6%92%AD%EF%BC%88HLS&amp;FLV%EF%BC%89%E6%96%B9%E6%A1%88%E4%BD%BF%E7%94%A8%E6%8A%80%E6%9C%AF%EF%BC%9AVdieojs&amp;Flvjs/"/>
     <id>https://qamaho.github.io/2020/08/23/PC%E7%AB%AF%E4%BB%A5%E5%8F%8A%E7%A7%BB%E5%8A%A8%E7%AB%AF%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE:%E7%9B%B4%E6%92%AD%EF%BC%88HLS&amp;FLV%EF%BC%89%E6%96%B9%E6%A1%88%E4%BD%BF%E7%94%A8%E6%8A%80%E6%9C%AF%EF%BC%9AVdieojs&amp;Flvjs/</id>
     <published>2020-08-23T13:01:39.252Z</published>
-    <updated>2020-08-23T15:25:04.173Z</updated>
+    <updated>2020-08-25T13:06:31.113Z</updated>
     
     
       
@@ -62,6 +62,7 @@
         
         
     <summary type="html">&lt;p&gt;这是一片测试文章&lt;/p&gt;
+&lt;p&gt;方案使用技术：Vdieojs&amp;amp;Flvjs&lt;/p&gt;
 &lt;p&gt;关键字：&lt;/p&gt;
 &lt;p&gt;PC端 移动端 视频 播放 直播 HLS FLV 方案 使用技术：Vdieojs</summary>
         

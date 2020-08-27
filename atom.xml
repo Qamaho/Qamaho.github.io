@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Qamaho&#39;Blog</title>
   
-  
+  <subtitle>这是一个刚刚搭建的简陋的blog。</subtitle>
   <link href="https://qamaho.github.io/atom.xml" rel="self"/>
   
   <link href="https://qamaho.github.io/"/>
-  <updated>2020-08-25T13:06:45.220Z</updated>
+  <updated>2020-08-27T15:36:41.584Z</updated>
   <id>https://qamaho.github.io/</id>
   
   <author>
@@ -17,11 +17,75 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>PC端以及移动端视频播放/直播（HLS&amp;FLV）方案使用技术：Videojs&amp;Flvjs</title>
+    <link href="https://qamaho.github.io/posts/40231.html"/>
+    <id>https://qamaho.github.io/posts/40231.html</id>
+    <published>2020-08-27T15:36:41.584Z</published>
+    <updated>2020-08-27T15:36:41.584Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;这是一片测试文章&lt;/p&gt;
+&lt;p&gt;关键字：&lt;/p&gt;
+&lt;p&gt;PC端 移动端 视频 播放 直播 HLS FLV 方案 使用技术：Videojs</summary>
+        
+      
+    
+    
+    
+    <category term="web前端" scheme="https://qamaho.github.io/categories/web%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="前端开发" scheme="https://qamaho.github.io/tags/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+    <category term="视频 hls flv" scheme="https://qamaho.github.io/tags/%E8%A7%86%E9%A2%91-hls-flv/"/>
+    
+    <category term="直播" scheme="https://qamaho.github.io/tags/%E7%9B%B4%E6%92%AD/"/>
+    
+    <category term="Videojs" scheme="https://qamaho.github.io/tags/Videojs/"/>
+    
+    <category term="Flvjs" scheme="https://qamaho.github.io/tags/Flvjs/"/>
+    
+    <category term="移动端" scheme="https://qamaho.github.io/tags/%E7%A7%BB%E5%8A%A8%E7%AB%AF/"/>
+    
+    <category term="PC端" scheme="https://qamaho.github.io/tags/PC%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://qamaho.github.io/posts/16107.html"/>
+    <id>https://qamaho.github.io/posts/16107.html</id>
+    <published>2020-08-27T15:36:41.584Z</published>
+    <updated>2020-08-27T15:36:41.584Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;disqus</summary>
+        
+      
+    
+    
+    
+    <category term="▣" scheme="https://qamaho.github.io/categories/%E2%96%A3/"/>
+    
+    
+    <category term="异想天开" scheme="https://qamaho.github.io/tags/%E5%BC%82%E6%83%B3%E5%A4%A9%E5%BC%80/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hexo-next添加algolia搜索</title>
-    <link href="https://qamaho.github.io/2020/08/23/Hexo-next%E6%B7%BB%E5%8A%A0algolia%E6%90%9C%E7%B4%A2/"/>
-    <id>https://qamaho.github.io/2020/08/23/Hexo-next%E6%B7%BB%E5%8A%A0algolia%E6%90%9C%E7%B4%A2/</id>
-    <published>2020-08-23T13:01:39.252Z</published>
-    <updated>2020-08-25T13:06:45.220Z</updated>
+    <link href="https://qamaho.github.io/posts/26951.html"/>
+    <id>https://qamaho.github.io/posts/26951.html</id>
+    <published>2020-08-27T15:36:41.582Z</published>
+    <updated>2020-08-27T15:36:41.582Z</updated>
     
     
       
@@ -50,56 +114,33 @@
   </entry>
   
   <entry>
-    <title>PC端以及移动端视频播放/直播（HLS&amp;FLV）方案使用技术：Vdieojs&amp;Flvjs</title>
-    <link href="https://qamaho.github.io/2020/08/23/PC%E7%AB%AF%E4%BB%A5%E5%8F%8A%E7%A7%BB%E5%8A%A8%E7%AB%AF%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%20%E7%9B%B4%E6%92%AD%EF%BC%88HLS%20FLV%EF%BC%89%E6%96%B9%E6%A1%88%E4%BD%BF%E7%94%A8%E6%8A%80%E6%9C%AF%EF%BC%9AVdieojs%20Flvjs/"/>
-    <id>https://qamaho.github.io/2020/08/23/PC%E7%AB%AF%E4%BB%A5%E5%8F%8A%E7%A7%BB%E5%8A%A8%E7%AB%AF%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%20%E7%9B%B4%E6%92%AD%EF%BC%88HLS%20FLV%EF%BC%89%E6%96%B9%E6%A1%88%E4%BD%BF%E7%94%A8%E6%8A%80%E6%9C%AF%EF%BC%9AVdieojs%20Flvjs/</id>
-    <published>2020-08-23T13:01:39.252Z</published>
-    <updated>2020-08-25T14:20:51.632Z</updated>
+    <title>Hexo建站记录</title>
+    <link href="https://qamaho.github.io/posts/63534.html"/>
+    <id>https://qamaho.github.io/posts/63534.html</id>
+    <published>2020-08-27T03:31:37.000Z</published>
+    <updated>2020-08-27T15:36:41.583Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;这是一片测试文章&lt;/p&gt;
-&lt;p&gt;关键字：&lt;/p&gt;
-&lt;p&gt;PC端 移动端 视频 播放 直播 HLS FLV 方案 使用技术：Vdieojs</summary>
+    <summary type="html">&lt;h5 id=&quot;本篇文章记录一下我的Hexo博客建站记录（从无到有，从简陋到简约）&quot;&gt;&lt;a href=&quot;#本篇文章记录一下我的Hexo博客建站记录（从无到有，从简陋到简约）&quot; class=&quot;headerlink&quot;</summary>
         
       
     
     
     
-    <category term="web前端" scheme="https://qamaho.github.io/categories/web%E5%89%8D%E7%AB%AF/"/>
+    <category term="Hexo" scheme="https://qamaho.github.io/categories/Hexo/"/>
     
     
-    <category term="前端开发" scheme="https://qamaho.github.io/tags/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    <category term="Hexo" scheme="https://qamaho.github.io/tags/Hexo/"/>
     
-    <category term="技术" scheme="https://qamaho.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
+    <category term="博客" scheme="https://qamaho.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
     
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://qamaho.github.io/2020/08/04/hello-world/"/>
-    <id>https://qamaho.github.io/2020/08/04/hello-world/</id>
-    <published>2020-08-04T15:18:24.588Z</published>
-    <updated>2020-08-24T11:37:58.414Z</updated>
+    <category term="NexT" scheme="https://qamaho.github.io/tags/NexT/"/>
     
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;disqus</summary>
-        
-      
-    
-    
-    
-    <category term="▣" scheme="https://qamaho.github.io/categories/%E2%96%A3/"/>
-    
-    
-    <category term="异想天开" scheme="https://qamaho.github.io/tags/%E5%BC%82%E6%83%B3%E5%A4%A9%E5%BC%80/"/>
+    <category term="GitHub Pages" scheme="https://qamaho.github.io/tags/GitHub-Pages/"/>
     
   </entry>
   

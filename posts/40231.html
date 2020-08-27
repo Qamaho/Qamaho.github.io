@@ -18,25 +18,29 @@
 
 <script id="hexo-configurations">
     var NexT = window.NexT || {};
-    var CONFIG = {"hostname":"qamaho.github.io","root":"/","scheme":"Pisces","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":true,"show_result":true,"style":null},"back2top":{"enable":true,"sidebar":true,"scrollpercent":true},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"appID":"UG8R3KYSWL","apiKey":"7bfa638e4f6f650147e48144f9647c12","indexName":"Qamaho","hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":false,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}};
+    var CONFIG = {"hostname":"qamaho.github.io","root":"/","scheme":"Pisces","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":true,"show_result":true,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":true},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"appID":"UG8R3KYSWL","apiKey":"7bfa638e4f6f650147e48144f9647c12","indexName":"Qamaho","hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":false,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}};
   </script>
 
-  <meta name="description" content="结合网文 以Mac为例一下为自己总结： 根目录打开_config.yml添加以下代码 algolia:  applicationID: ‘你的Application ID’ apiKey: ‘你的Search-Only API Key’ indexName: ‘输入刚才创建index name’ 出现错误： 未设置HEXO_ALGOLIA_INDEXING_KEY export HEXO_ALGO">
+  <meta name="description" content="这是一片测试文章 关键字： PC端 移动端 视频 播放 直播 HLS FLV 方案 使用技术：Videojs Flvjs 引用文章：">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Hexo-next添加algolia搜索">
-<meta property="og:url" content="https://qamaho.github.io/2020/08/23/Hexo-next%E6%B7%BB%E5%8A%A0algolia%E6%90%9C%E7%B4%A2/index.html">
+<meta property="og:title" content="PC端以及移动端视频播放&#x2F;直播（HLS&amp;FLV）方案使用技术：Videojs&amp;Flvjs">
+<meta property="og:url" content="https://qamaho.github.io/posts/40231.html">
 <meta property="og:site_name" content="Qamaho&#39;Blog">
-<meta property="og:description" content="结合网文 以Mac为例一下为自己总结： 根目录打开_config.yml添加以下代码 algolia:  applicationID: ‘你的Application ID’ apiKey: ‘你的Search-Only API Key’ indexName: ‘输入刚才创建index name’ 出现错误： 未设置HEXO_ALGOLIA_INDEXING_KEY export HEXO_ALGO">
+<meta property="og:description" content="这是一片测试文章 关键字： PC端 移动端 视频 播放 直播 HLS FLV 方案 使用技术：Videojs Flvjs 引用文章：">
 <meta property="og:locale" content="zh_CN">
-<meta property="article:published_time" content="2020-08-23T13:01:39.252Z">
-<meta property="article:modified_time" content="2020-08-25T13:06:45.220Z">
+<meta property="article:published_time" content="2020-08-27T15:36:41.584Z">
+<meta property="article:modified_time" content="2020-08-27T15:36:41.584Z">
 <meta property="article:author" content="Qamaho">
-<meta property="article:tag" content="Hexo">
-<meta property="article:tag" content="Next">
-<meta property="article:tag" content="algolia">
+<meta property="article:tag" content="前端开发">
+<meta property="article:tag" content="视频 hls flv">
+<meta property="article:tag" content="直播">
+<meta property="article:tag" content="Videojs">
+<meta property="article:tag" content="Flvjs">
+<meta property="article:tag" content="移动端">
+<meta property="article:tag" content="PC端">
 <meta name="twitter:card" content="summary">
 
-<link rel="canonical" href="https://qamaho.github.io/2020/08/23/Hexo-next%E6%B7%BB%E5%8A%A0algolia%E6%90%9C%E7%B4%A2/">
+<link rel="canonical" href="https://qamaho.github.io/posts/40231.html">
 
 
 <script id="page-configurations">
@@ -49,8 +53,17 @@
   };
 </script>
 
-  <title>Hexo-next添加algolia搜索 | Qamaho'Blog</title>
+  <title>PC端以及移动端视频播放/直播（HLS&FLV）方案使用技术：Videojs&Flvjs | Qamaho'Blog</title>
   
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-176568373-1"></script>
+    <script>
+      if (CONFIG.hostname === location.hostname) {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-176568373-1');
+      }
+    </script>
 
 
 
@@ -104,6 +117,7 @@
       <h1 class="site-title">Qamaho'Blog</h1>
       <span class="logo-line-after"><i></i></span>
     </a>
+      <p class="site-subtitle" itemprop="description">这是一个刚刚搭建的简陋的blog。</p>
   </div>
 
   <div class="site-nav-right">
@@ -177,6 +191,10 @@
     </header>
 
     
+  <div class="back-to-top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
 
 
     <main class="main">
@@ -191,7 +209,7 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="https://qamaho.github.io/2020/08/23/Hexo-next%E6%B7%BB%E5%8A%A0algolia%E6%90%9C%E7%B4%A2/">
+    <link itemprop="mainEntityOfPage" href="https://qamaho.github.io/posts/40231.html">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="https://avatars0.githubusercontent.com/u/10413539?s=460&u=f3d723636d78c13ec95d3604f643d7c2b88c65a7&v=4">
@@ -204,7 +222,7 @@
     </span>
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">
-          Hexo-next添加algolia搜索
+          PC端以及移动端视频播放/直播（HLS&FLV）方案使用技术：Videojs&Flvjs
         </h1>
 
         <div class="post-meta">
@@ -214,22 +232,15 @@
               </span>
               <span class="post-meta-item-text">发表于</span>
 
-              <time title="创建时间：2020-08-23 21:01:39" itemprop="dateCreated datePublished" datetime="2020-08-23T21:01:39+08:00">2020-08-23</time>
+              <time title="创建时间：2020-08-27 23:36:41" itemprop="dateCreated datePublished" datetime="2020-08-27T23:36:41+08:00">2020-08-27</time>
             </span>
-              <span class="post-meta-item">
-                <span class="post-meta-item-icon">
-                  <i class="far fa-calendar-check"></i>
-                </span>
-                <span class="post-meta-item-text">更新于</span>
-                <time title="修改时间：2020-08-25 21:06:45" itemprop="dateModified" datetime="2020-08-25T21:06:45+08:00">2020-08-25</time>
-              </span>
             <span class="post-meta-item">
               <span class="post-meta-item-icon">
                 <i class="far fa-folder"></i>
               </span>
               <span class="post-meta-item-text">分类于</span>
                 <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/Hexo/" itemprop="url" rel="index"><span itemprop="name">Hexo</span></a>
+                  <a href="/categories/web%E5%89%8D%E7%AB%AF/" itemprop="url" rel="index"><span itemprop="name">web前端</span></a>
                 </span>
             </span>
 
@@ -249,8 +260,8 @@
       </span>
       <span class="post-meta-item-text">Disqus：</span>
     
-    <a title="disqus" href="/2020/08/23/Hexo-next%E6%B7%BB%E5%8A%A0algolia%E6%90%9C%E7%B4%A2/#disqus_thread" itemprop="discussionUrl">
-      <span class="post-comments-count disqus-comment-count" data-disqus-identifier="2020/08/23/Hexo-next添加algolia搜索/" itemprop="commentCount"></span>
+    <a title="disqus" href="/posts/40231.html#disqus_thread" itemprop="discussionUrl">
+      <span class="post-comments-count disqus-comment-count" data-disqus-identifier="posts/40231.html" itemprop="commentCount"></span>
     </a>
   </span>
   
@@ -260,7 +271,7 @@
                 <i class="far fa-file-word"></i>
               </span>
                 <span class="post-meta-item-text">本文字数：</span>
-              <span>342</span>
+              <span>54</span>
             </span>
             <span class="post-meta-item" title="阅读时长">
               <span class="post-meta-item-icon">
@@ -279,17 +290,10 @@
     <div class="post-body" itemprop="articleBody">
 
       
-        <p>结合网文</p>
-<p>以Mac为例一下为自己总结：</p>
-<p>根目录打开_config.yml添加以下代码</p>
-<p>algolia:  applicationID: ‘你的Application ID’</p>
-<p>apiKey: ‘你的Search-Only API Key’</p>
-<p>indexName: ‘输入刚才创建index name’</p>
-<p>出现错误：</p>
-<p>未设置HEXO_ALGOLIA_INDEXING_KEY</p>
-<p>export HEXO_ALGOLIA_INDEXING_KEY=你的Admin API Key</p>
-<p>HEXO_ALGOLIA_INDEXING_KEY设置不正确，请确认HEXO_ALGOLIA_INDEXING_KEY是否正确设置</p>
-<p>如果你需要修改ACLs，algolia用户默认创建的API Keys是没办法修改ACLs的，你需要自己新建一个API Keys进行修改</p>
+        <p>这是一片测试文章</p>
+<p>关键字：</p>
+<p>PC端 移动端 视频 播放 直播 HLS FLV 方案 使用技术：Videojs Flvjs</p>
+<p>引用文章：</p>
 
     </div>
 
@@ -305,7 +309,7 @@
   </li>
   <li class="post-copyright-link">
     <strong>本文链接：</strong>
-    <a href="https://qamaho.github.io/2020/08/23/Hexo-next%E6%B7%BB%E5%8A%A0algolia%E6%90%9C%E7%B4%A2/" title="Hexo-next添加algolia搜索">https://qamaho.github.io/2020/08/23/Hexo-next添加algolia搜索/</a>
+    <a href="https://qamaho.github.io/posts/40231.html" title="PC端以及移动端视频播放&#x2F;直播（HLS&amp;FLV）方案使用技术：Videojs&amp;Flvjs">https://qamaho.github.io/posts/40231.html</a>
   </li>
   <li class="post-copyright-license">
     <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
@@ -316,9 +320,13 @@
 
       <footer class="post-footer">
           <div class="post-tags">
-              <a href="/tags/Hexo/" rel="tag"># Hexo</a>
-              <a href="/tags/Next/" rel="tag"># Next</a>
-              <a href="/tags/algolia/" rel="tag"># algolia</a>
+              <a href="/tags/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/" rel="tag"># 前端开发</a>
+              <a href="/tags/%E8%A7%86%E9%A2%91-hls-flv/" rel="tag"># 视频 hls flv</a>
+              <a href="/tags/%E7%9B%B4%E6%92%AD/" rel="tag"># 直播</a>
+              <a href="/tags/Videojs/" rel="tag"># Videojs</a>
+              <a href="/tags/Flvjs/" rel="tag"># Flvjs</a>
+              <a href="/tags/%E7%A7%BB%E5%8A%A8%E7%AB%AF/" rel="tag"># 移动端</a>
+              <a href="/tags/PC%E7%AB%AF/" rel="tag"># PC端</a>
           </div>
 
         
@@ -327,8 +335,8 @@
         
     <div class="post-nav">
       <div class="post-nav-item">
-    <a href="/2020/08/23/PC%E7%AB%AF%E4%BB%A5%E5%8F%8A%E7%A7%BB%E5%8A%A8%E7%AB%AF%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%20%E7%9B%B4%E6%92%AD%EF%BC%88HLS%20FLV%EF%BC%89%E6%96%B9%E6%A1%88%E4%BD%BF%E7%94%A8%E6%8A%80%E6%9C%AF%EF%BC%9AVdieojs%20Flvjs/" rel="prev" title="PC端以及移动端视频播放/直播（HLS&FLV）方案使用技术：Vdieojs&Flvjs">
-      <i class="fa fa-chevron-left"></i> PC端以及移动端视频播放/直播（HLS&FLV）方案使用技术：Vdieojs&Flvjs
+    <a href="/posts/16107.html" rel="prev" title="Hello World">
+      <i class="fa fa-chevron-left"></i> Hello World
     </a></div>
       <div class="post-nav-item"></div>
     </div>
@@ -419,7 +427,7 @@
       <div class="site-state-item site-state-posts">
           <a href="/archives/">
         
-          <span class="site-state-item-count">3</span>
+          <span class="site-state-item-count">4</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
@@ -428,22 +436,15 @@
         <span class="site-state-item-name">分类</span>
       </div>
       <div class="site-state-item site-state-tags">
-        <span class="site-state-item-count">6</span>
+        <span class="site-state-item-count">14</span>
         <span class="site-state-item-name">标签</span>
       </div>
   </nav>
 </div>
-  <div class="cc-license motion-element" itemprop="license">
-    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" class="cc-opacity" rel="noopener" target="_blank"><img src="/images/cc-by-nc-sa.svg" alt="Creative Commons"></a>
-  </div>
 
 
 
       </div>
-        <div class="back-to-top motion-element">
-          <i class="fa fa-arrow-up"></i>
-          <span>0%</span>
-        </div>
 
     </div>
   </aside>
@@ -471,7 +472,7 @@
     <span class="post-meta-item-icon">
       <i class="fa fa-chart-area"></i>
     </span>
-    <span title="站点总字数">0k</span>
+    <span title="站点总字数">1k</span>
     <span class="post-meta-divider">|</span>
     <span class="post-meta-item-icon">
       <i class="fa fa-coffee"></i>
@@ -571,9 +572,9 @@
 </script>
 <script>
   var disqus_config = function() {
-    this.page.url = "https://qamaho.github.io/2020/08/23/Hexo-next%E6%B7%BB%E5%8A%A0algolia%E6%90%9C%E7%B4%A2/";
-    this.page.identifier = "2020/08/23/Hexo-next添加algolia搜索/";
-    this.page.title = "Hexo-next添加algolia搜索";
+    this.page.url = "https://qamaho.github.io/posts/40231.html";
+    this.page.identifier = "posts/40231.html";
+    this.page.title = "PC端以及移动端视频播放/直播（HLS&FLV）方案使用技术：Videojs&Flvjs";
     };
   NexT.utils.loadComments(document.querySelector('#disqus_thread'), () => {
     if (window.DISQUS) {

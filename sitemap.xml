@@ -2,30 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://qamaho.github.io/2020/08/23/PC%E7%AB%AF%E4%BB%A5%E5%8F%8A%E7%A7%BB%E5%8A%A8%E7%AB%AF%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%20%E7%9B%B4%E6%92%AD%EF%BC%88HLS%20FLV%EF%BC%89%E6%96%B9%E6%A1%88%E4%BD%BF%E7%94%A8%E6%8A%80%E6%9C%AF%EF%BC%9AVdieojs%20Flvjs/</loc>
+    <loc>https://qamaho.github.io/about/index.html</loc>
     
-    <lastmod>2020-08-25</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://qamaho.github.io/2020/08/23/Hexo-next%E6%B7%BB%E5%8A%A0algolia%E6%90%9C%E7%B4%A2/</loc>
-    
-    <lastmod>2020-08-25</lastmod>
+    <lastmod>2020-08-27</lastmod>
     
   </url>
   
   <url>
-    <loc>https://qamaho.github.io/2020/08/04/hello-world/</loc>
+    <loc>https://qamaho.github.io/categories/index.html</loc>
     
-    <lastmod>2020-08-24</lastmod>
+    <lastmod>2020-08-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qamaho.github.io/tags/index.html</loc>
+    
+    <lastmod>2020-08-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qamaho.github.io/posts/40231.html</loc>
+    
+    <lastmod>2020-08-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qamaho.github.io/posts/16107.html</loc>
+    
+    <lastmod>2020-08-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qamaho.github.io/posts/63534.html</loc>
+    
+    <lastmod>2020-08-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qamaho.github.io/posts/26951.html</loc>
+    
+    <lastmod>2020-08-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qamaho.github.io/404.html</loc>
+    
+    <lastmod>2020-08-27</lastmod>
     
   </url>
   
 
   <url>
     <loc>https://qamaho.github.io/</loc>
-    <lastmod>2020-08-25</lastmod>
+    <lastmod>2020-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -33,42 +68,98 @@
   
   <url>
     <loc>https://qamaho.github.io/tags/Hexo/</loc>
-    <lastmod>2020-08-25</lastmod>
+    <lastmod>2020-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://qamaho.github.io/tags/Next/</loc>
-    <lastmod>2020-08-25</lastmod>
+    <lastmod>2020-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://qamaho.github.io/tags/algolia/</loc>
-    <lastmod>2020-08-25</lastmod>
+    <lastmod>2020-08-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://qamaho.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2020-08-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://qamaho.github.io/tags/NexT/</loc>
+    <lastmod>2020-08-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://qamaho.github.io/tags/GitHub-Pages/</loc>
+    <lastmod>2020-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://qamaho.github.io/tags/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/</loc>
-    <lastmod>2020-08-25</lastmod>
+    <lastmod>2020-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://qamaho.github.io/tags/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2020-08-25</lastmod>
+    <loc>https://qamaho.github.io/tags/%E8%A7%86%E9%A2%91-hls-flv/</loc>
+    <lastmod>2020-08-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://qamaho.github.io/tags/%E7%9B%B4%E6%92%AD/</loc>
+    <lastmod>2020-08-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://qamaho.github.io/tags/Videojs/</loc>
+    <lastmod>2020-08-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://qamaho.github.io/tags/Flvjs/</loc>
+    <lastmod>2020-08-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://qamaho.github.io/tags/%E7%A7%BB%E5%8A%A8%E7%AB%AF/</loc>
+    <lastmod>2020-08-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://qamaho.github.io/tags/PC%E7%AB%AF/</loc>
+    <lastmod>2020-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://qamaho.github.io/tags/%E5%BC%82%E6%83%B3%E5%A4%A9%E5%BC%80/</loc>
-    <lastmod>2020-08-25</lastmod>
+    <lastmod>2020-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -77,21 +168,21 @@
   
   <url>
     <loc>https://qamaho.github.io/categories/Hexo/</loc>
-    <lastmod>2020-08-25</lastmod>
+    <lastmod>2020-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://qamaho.github.io/categories/web%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2020-08-25</lastmod>
+    <lastmod>2020-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://qamaho.github.io/categories/%E2%96%A3/</loc>
-    <lastmod>2020-08-25</lastmod>
+    <lastmod>2020-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
